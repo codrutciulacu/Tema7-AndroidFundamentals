@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TemaModul7</string>
+    <string name="hobby_ul_meu_este_acela_de_a_colectiona_monede">Hobby-ul meu este acela de a colectiona monede</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="showdate">Show Date</string>
+    <string name="click_for_photo">Click for photo!</string>
+</resources>
